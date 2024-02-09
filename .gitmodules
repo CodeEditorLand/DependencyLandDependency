@@ -1,0 +1,9 @@
+[submodule "ApplicationinsightsLand"]
+	path = ApplicationinsightsLand
+	url = ssh://git@github.com/CodeEditorLand/ApplicationinsightsLand.git
+[submodule "AzureBoardsLand"]
+	path = AzureBoardsLand
+	url = ssh://git@github.com/CodeEditorLand/AzureBoardsLand.git
+[submodule "AzureDatalakeToolsForLand"]
+	path = AzureDatalakeToolsForLand
+	url = ssh://git@github.com/CodeEditorLand/AzureDatalakeToolsForLand.git
