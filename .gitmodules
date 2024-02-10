@@ -40,9 +40,6 @@ url = ssh://git@github.com/CodeEditorLand/DstoolkitDevcontainers.git
 [submodule "Gnls"]
 path = Gnls
 url = ssh://git@github.com/CodeEditorLand/Gnls.git
-[submodule "Editor"]
-path = Editor
-url = ssh://git@github.com/CodeEditorLand/Editor.git
 [submodule "LandAnacondaExtensionPack"]
 path = LandAnacondaExtensionPack
 url = ssh://git@github.com/CodeEditorLand/LandAnacondaExtensionPack.git
