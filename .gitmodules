@@ -685,3 +685,102 @@ url = ssh://git@github.com/CodeEditorLand/LandRemoteTryPhp.git
 [submodule "LandRemoteTryPython"]
 path = LandRemoteTryPython
 url = ssh://git@github.com/CodeEditorLand/LandRemoteTryPython.git
+[submodule "LandRemoteTryRust"]
+path = LandRemoteTryRust
+url = ssh://git@github.com/CodeEditorLand/LandRemoteTryRust.git
+[submodule "LandRemoteTrySqlserver"]
+path = LandRemoteTrySqlserver
+url = ssh://git@github.com/CodeEditorLand/LandRemoteTrySqlserver.git
+[submodule "LandRemoteWslRecommender"]
+path = LandRemoteWslRecommender
+url = ssh://git@github.com/CodeEditorLand/LandRemoteWslRecommender.git
+[submodule "LandResharperKeybindings"]
+path = LandResharperKeybindings
+url = ssh://git@github.com/CodeEditorLand/LandResharperKeybindings.git
+[submodule "LandRipgrep"]
+path = LandRipgrep
+url = ssh://git@github.com/CodeEditorLand/LandRipgrep.git
+[submodule "LandRussh"]
+path = LandRussh
+url = ssh://git@github.com/CodeEditorLand/LandRussh.git
+[submodule "LandSamples"]
+path = LandSamples
+url = ssh://git@github.com/CodeEditorLand/LandSamples.git
+[submodule "LandSCMBuilders"]
+path = LandSCMBuilders
+url = ssh://git@github.com/CodeEditorLand/LandSCMBuilders.git
+[submodule "LandSecretServiceRs"]
+path = LandSecretServiceRs
+url = ssh://git@github.com/CodeEditorLand/LandSecretServiceRs.git
+[submodule "LandSelfhostTestProvider"]
+path = LandSelfhostTestProvider
+url = ssh://git@github.com/CodeEditorLand/LandSelfhostTestProvider.git
+[submodule "LandSerialMonitor"]
+path = LandSerialMonitor
+url = ssh://git@github.com/CodeEditorLand/LandSerialMonitor.git
+[submodule "LandServiceFabricReliableServices"]
+path = LandServiceFabricReliableServices
+url = ssh://git@github.com/CodeEditorLand/LandServiceFabricReliableServices.git
+[submodule "LandServiceStatus"]
+path = LandServiceStatus
+url = ssh://git@github.com/CodeEditorLand/LandServiceStatus.git
+[submodule "LandSimpleJupyterNotebook"]
+path = LandSimpleJupyterNotebook
+url = ssh://git@github.com/CodeEditorLand/LandSimpleJupyterNotebook.git
+[submodule "LandSmoketestCheck"]
+path = LandSmoketestCheck
+url = ssh://git@github.com/CodeEditorLand/LandSmoketestCheck.git
+[submodule "LandSmoketestExpress"]
+path = LandSmoketestExpress
+url = ssh://git@github.com/CodeEditorLand/LandSmoketestExpress.git
+[submodule "LandspacesQuickstart"]
+path = LandspacesQuickstart
+url = ssh://git@github.com/CodeEditorLand/LandspacesQuickstart.git
+[submodule "LandSpellCheck"]
+path = LandSpellCheck
+url = ssh://git@github.com/CodeEditorLand/LandSpellCheck.git
+[submodule "LandSpringBootDashboard"]
+path = LandSpringBootDashboard
+url = ssh://git@github.com/CodeEditorLand/LandSpringBootDashboard.git
+[submodule "LandSpringInitializr"]
+path = LandSpringInitializr
+url = ssh://git@github.com/CodeEditorLand/LandSpringInitializr.git
+[submodule "LandStac"]
+path = LandStac
+url = ssh://git@github.com/CodeEditorLand/LandStac.git
+[submodule "LandSublimeKeybindings"]
+path = LandSublimeKeybindings
+url = ssh://git@github.com/CodeEditorLand/LandSublimeKeybindings.git
+[submodule "LandTasAngular"]
+path = LandTasAngular
+url = ssh://git@github.com/CodeEditorLand/LandTasAngular.git
+[submodule "LandTasExpress"]
+path = LandTasExpress
+url = ssh://git@github.com/CodeEditorLand/LandTasExpress.git
+[submodule "LandTasVue"]
+path = LandTasVue
+url = ssh://git@github.com/CodeEditorLand/LandTasVue.git
+[submodule "LandTeam"]
+path = LandTeam
+url = ssh://git@github.com/CodeEditorLand/LandTeam.git
+[submodule "LandTelemetryExtractor"]
+path = LandTelemetryExtractor
+url = ssh://git@github.com/CodeEditorLand/LandTelemetryExtractor.git
+[submodule "LandTensorboard"]
+path = LandTensorboard
+url = ssh://git@github.com/CodeEditorLand/LandTensorboard.git
+[submodule "LandTest"]
+path = LandTest
+url = ssh://git@github.com/CodeEditorLand/LandTest.git
+[submodule "LandTestAdapterConverter"]
+path = LandTestAdapterConverter
+url = ssh://git@github.com/CodeEditorLand/LandTestAdapterConverter.git
+[submodule "LandTestCli"]
+path = LandTestCli
+url = ssh://git@github.com/CodeEditorLand/LandTestCli.git
+[submodule "Landtestcover"]
+path = Landtestcover
+url = ssh://git@github.com/CodeEditorLand/Landtestcover.git
+[submodule "LandTestWeb"]
+path = LandTestWeb
+url = ssh://git@github.com/CodeEditorLand/LandTestWeb.git
