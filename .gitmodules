@@ -784,3 +784,147 @@ url = ssh://git@github.com/CodeEditorLand/Landtestcover.git
 [submodule "LandTestWeb"]
 path = LandTestWeb
 url = ssh://git@github.com/CodeEditorLand/LandTestWeb.git
+[submodule "LandTextbuffer"]
+path = LandTextbuffer
+url = ssh://git@github.com/CodeEditorLand/LandTextbuffer.git
+[submodule "LandTextmate"]
+path = LandTextmate
+url = ssh://git@github.com/CodeEditorLand/LandTextmate.git
+[submodule "LandThemeColorConsumer"]
+path = LandThemeColorConsumer
+url = ssh://git@github.com/CodeEditorLand/LandThemeColorConsumer.git
+[submodule "LandThemes"]
+path = LandThemes
+url = ssh://git@github.com/CodeEditorLand/LandThemes.git
+[submodule "LandThemeTester"]
+path = LandThemeTester
+url = ssh://git@github.com/CodeEditorLand/LandThemeTester.git
+[submodule "LandTipsAndTricks"]
+path = LandTipsAndTricks
+url = ssh://git@github.com/CodeEditorLand/LandTipsAndTricks.git
+[submodule "LandTmdl"]
+path = LandTmdl
+url = ssh://git@github.com/CodeEditorLand/LandTmdl.git
+[submodule "LandToolsForAi"]
+path = LandToolsForAi
+url = ssh://git@github.com/CodeEditorLand/LandToolsForAi.git
+[submodule "LandTslint"]
+path = LandTslint
+url = ssh://git@github.com/CodeEditorLand/LandTslint.git
+[submodule "LandTsPackageManager"]
+path = LandTsPackageManager
+url = ssh://git@github.com/CodeEditorLand/LandTsPackageManager.git
+[submodule "LandTsTslint"]
+path = LandTsTslint
+url = ssh://git@github.com/CodeEditorLand/LandTsTslint.git
+[submodule "LandTye"]
+path = LandTye
+url = ssh://git@github.com/CodeEditorLand/LandTye.git
+[submodule "LandTypescriptNext"]
+path = LandTypescriptNext
+url = ssh://git@github.com/CodeEditorLand/LandTypescriptNext.git
+[submodule "LandTypescriptTslintPlugin"]
+path = LandTypescriptTslintPlugin
+url = ssh://git@github.com/CodeEditorLand/LandTypescriptTslintPlugin.git
+[submodule "LandUri"]
+path = LandUri
+url = ssh://git@github.com/CodeEditorLand/LandUri.git
+[submodule "LandV8HeapTools"]
+path = LandV8HeapTools
+url = ssh://git@github.com/CodeEditorLand/LandV8HeapTools.git
+[submodule "LandVsce"]
+path = LandVsce
+url = ssh://git@github.com/CodeEditorLand/LandVsce.git
+[submodule "LandVsKeybindings"]
+path = LandVsKeybindings
+url = ssh://git@github.com/CodeEditorLand/LandVsKeybindings.git
+[submodule "LandWasm"]
+path = LandWasm
+url = ssh://git@github.com/CodeEditorLand/LandWasm.git
+[submodule "LandWebPlayground"]
+path = LandWebPlayground
+url = ssh://git@github.com/CodeEditorLand/LandWebPlayground.git
+[submodule "LandWebviewUiToolkit"]
+path = LandWebviewUiToolkit
+url = ssh://git@github.com/CodeEditorLand/LandWebviewUiToolkit.git
+[submodule "LandWebviewUiToolkitSamples"]
+path = LandWebviewUiToolkitSamples
+url = ssh://git@github.com/CodeEditorLand/LandWebviewUiToolkitSamples.git
+[submodule "LandWiki"]
+path = LandWiki
+url = ssh://git@github.com/CodeEditorLand/LandWiki.git
+[submodule "LandWin32AppContainerTokens"]
+path = LandWin32AppContainerTokens
+url = ssh://git@github.com/CodeEditorLand/LandWin32AppContainerTokens.git
+[submodule "LandWindowsCaCerts"]
+path = LandWindowsCaCerts
+url = ssh://git@github.com/CodeEditorLand/LandWindowsCaCerts.git
+[submodule "LandWindowsProcessTree"]
+path = LandWindowsProcessTree
+url = ssh://git@github.com/CodeEditorLand/LandWindowsProcessTree.git
+[submodule "LandWindowsRegistry"]
+path = LandWindowsRegistry
+url = ssh://git@github.com/CodeEditorLand/LandWindowsRegistry.git
+[submodule "LandWinsta11er"]
+path = LandWinsta11er
+url = ssh://git@github.com/CodeEditorLand/LandWinsta11er.git
+[submodule "LandWordcount"]
+path = LandWordcount
+url = ssh://git@github.com/CodeEditorLand/LandWordcount.git
+[submodule "LandZeromq"]
+path = LandZeromq
+url = ssh://git@github.com/CodeEditorLand/LandZeromq.git
+[submodule "Linkcheckermd"]
+path = Linkcheckermd
+url = ssh://git@github.com/CodeEditorLand/Linkcheckermd.git
+[submodule "MonacoEditor"]
+path = MonacoEditor
+url = ssh://git@github.com/CodeEditorLand/MonacoEditor.git
+[submodule "NodeRequestLight"]
+path = NodeRequestLight
+url = ssh://git@github.com/CodeEditorLand/NodeRequestLight.git
+[submodule "PlaywrightLand"]
+path = PlaywrightLand
+url = ssh://git@github.com/CodeEditorLand/PlaywrightLand.git
+[submodule "PowerplatformLand"]
+path = PowerplatformLand
+url = ssh://git@github.com/CodeEditorLand/PowerplatformLand.git
+[submodule "PowerplatformLandLab"]
+path = PowerplatformLandLab
+url = ssh://git@github.com/CodeEditorLand/PowerplatformLandLab.git
+[submodule "PSDocsLand"]
+path = PSDocsLand
+url = ssh://git@github.com/CodeEditorLand/PSDocsLand.git
+[submodule "PSRuleLand"]
+path = PSRuleLand
+url = ssh://git@github.com/CodeEditorLand/PSRuleLand.git
+[submodule "Pvscbot"]
+path = Pvscbot
+url = ssh://git@github.com/CodeEditorLand/Pvscbot.git
+[submodule "PythonSampleLandDjangoTutorial"]
+path = PythonSampleLandDjangoTutorial
+url = ssh://git@github.com/CodeEditorLand/PythonSampleLandDjangoTutorial.git
+[submodule "PythonSampleLandFastapiTutorial"]
+path = PythonSampleLandFastapiTutorial
+url = ssh://git@github.com/CodeEditorLand/PythonSampleLandFastapiTutorial.git
+[submodule "PythonSampleLandFlaskTutorial"]
+path = PythonSampleLandFlaskTutorial
+url = ssh://git@github.com/CodeEditorLand/PythonSampleLandFlaskTutorial.git
+[submodule "Quantum"]
+path = Quantum
+url = ssh://git@github.com/CodeEditorLand/Quantum.git
+[submodule "SarifLandExtension"]
+path = SarifLandExtension
+url = ssh://git@github.com/CodeEditorLand/SarifLandExtension.git
+[submodule "ScopestudioLand"]
+path = ScopestudioLand
+url = ssh://git@github.com/CodeEditorLand/ScopestudioLand.git
+[submodule "SynapseLand"]
+path = SynapseLand
+url = ssh://git@github.com/CodeEditorLand/SynapseLand.git
+[submodule "ThemeConverterForVs"]
+path = ThemeConverterForVs
+url = ssh://git@github.com/CodeEditorLand/ThemeConverterForVs.git
+[submodule "TypeScriptLandExtensions"]
+path = TypeScriptLandExtensions
+url = ssh://git@github.com/CodeEditorLand/TypeScriptLandExtensions.git
