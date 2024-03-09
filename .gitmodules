@@ -1,0 +1,39 @@
+[submodule "ApplicationinsightsLand"]
+	path = ApplicationinsightsLand
+	url = ssh://git@github.com/CodeEditorLand/ApplicationinsightsLand.git
+[submodule "AzureBoardsLand"]
+	path = AzureBoardsLand
+	url = ssh://git@github.com/CodeEditorLand/AzureBoardsLand.git
+[submodule "AzureDatalakeToolsForLand"]
+	path = AzureDatalakeToolsForLand
+	url = ssh://git@github.com/CodeEditorLand/AzureDatalakeToolsForLand.git
+[submodule "AzureIotDeveloperKit"]
+	path = AzureIotDeveloperKit
+	url = ssh://git@github.com/CodeEditorLand/AzureIotDeveloperKit.git
+[submodule "AzurePipelinesLand"]
+	path = AzurePipelinesLand
+	url = ssh://git@github.com/CodeEditorLand/AzurePipelinesLand.git
+[submodule "AzureReposLand"]
+	path = AzureReposLand
+	url = ssh://git@github.com/CodeEditorLand/AzureReposLand.git
+[submodule "AzureStreamAnalyticsInLand"]
+	path = AzureStreamAnalyticsInLand
+	url = ssh://git@github.com/CodeEditorLand/AzureStreamAnalyticsInLand.git
+[submodule "Codetour"]
+	path = Codetour
+	url = ssh://git@github.com/CodeEditorLand/Codetour.git
+[submodule "ComposeLanguageService"]
+	path = ComposeLanguageService
+	url = ssh://git@github.com/CodeEditorLand/ComposeLanguageService.git
+[submodule "DeoptexplorerLand"]
+	path = DeoptexplorerLand
+	url = ssh://git@github.com/CodeEditorLand/DeoptexplorerLand.git
+[submodule "DevSkim"]
+	path = DevSkim
+	url = ssh://git@github.com/CodeEditorLand/DevSkim.git
+[submodule "DevSkimLandPlugin"]
+	path = DevSkimLandPlugin
+	url = ssh://git@github.com/CodeEditorLand/DevSkimLandPlugin.git
+[submodule "DstoolkitDevcontainers"]
+	path = DstoolkitDevcontainers
+	url = ssh://git@github.com/CodeEditorLand/DstoolkitDevcontainers.git
