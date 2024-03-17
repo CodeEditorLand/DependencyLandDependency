@@ -211,8 +211,8 @@ path = LandBracketsPack
 url = ssh://git@github.com/CodeEditorLand/LandBracketsPack.git
 
 [submodule "LandCdp"]
-path = LandCdp
-url = ssh://git@github.com/CodeEditorLand/LandCdp.git
+	path = LandCdp
+	url = ssh://git@github.com/CodeEditorLand/LandCdp.git
 
 [submodule "LandCdpProxy"]
 path = LandCdpProxy
