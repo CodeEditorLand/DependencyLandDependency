@@ -1237,3 +1237,6 @@ url = ssh://git@github.com/CodeEditorLand/TypeScriptLandExtensions.git
 [submodule "LandDocsArchive"]
 path = LandDocsArchive
 url = ssh://git@github.com/CodeEditorLand/LandDocsArchive.git
+[submodule "PrivateMoon"]
+	path = PrivateMoon
+	url = ssh://git@github.com/CodeEditorLand/PrivateMoon.git
