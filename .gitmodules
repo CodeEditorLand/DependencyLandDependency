@@ -925,3 +925,6 @@
 [submodule "TypeScriptLandExtensions"]
 	path = TypeScriptLandExtensions
 	url = ssh://git@github.com/CodeEditorLand/TypeScriptLandExtensions.git
+[submodule "LandDocsArchive"]
+	path = LandDocsArchive
+	url = ssh://git@github.com/CodeEditorLand/LandDocsArchive.git
