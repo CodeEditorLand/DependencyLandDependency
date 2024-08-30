@@ -70,10 +70,6 @@ url = ssh://git@github.com/CodeEditorLand/LandApimanagement.git
 path = LandAppcenter
 url = ssh://git@github.com/CodeEditorLand/LandAppcenter.git
 
-# [submodule "LandArduino"]
-# path = LandArduino
-# url = ssh://git@github.com/CodeEditorLand/LandArduino.git
-
 [submodule "LandAsa"]
 path = LandAsa
 url = ssh://git@github.com/CodeEditorLand/LandAsa.git
@@ -1237,3 +1233,6 @@ url = ssh://git@github.com/CodeEditorLand/TypeScriptLandExtensions.git
 [submodule "LandDocsArchive"]
 path = LandDocsArchive
 url = ssh://git@github.com/CodeEditorLand/LandDocsArchive.git
+[submodule "LandArduino"]
+	path = LandArduino
+	url = ssh://git@github.com/CodeEditorLand/LandArduino.git
