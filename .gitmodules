@@ -1216,15 +1216,23 @@ url = ssh://git@github.com/CodeEditorLand/LandPullRequestGitHub.git
 [submodule "LandDocsArchive"]
 path = LandDocsArchive
 url = ssh://git@github.com/CodeEditorLand/LandDocsArchive.git
+
 [submodule "LandDwarfDebuggingExt"]
-	path = LandDwarfDebuggingExt
-	url = ssh://git@github.com/CodeEditorLand/LandDwarfDebuggingExt.git
+path = LandDwarfDebuggingExt
+url = ssh://git@github.com/CodeEditorLand/LandDwarfDebuggingExt.git
+
 [submodule "LandJupyterCellTags"]
-	path = LandJupyterCellTags
-	url = ssh://git@github.com/CodeEditorLand/LandJupyterCellTags.git
+path = LandJupyterCellTags
+url = ssh://git@github.com/CodeEditorLand/LandJupyterCellTags.git
+
 [submodule "LandNotebookRenderers"]
-	path = LandNotebookRenderers
-	url = ssh://git@github.com/CodeEditorLand/LandNotebookRenderers.git
+path = LandNotebookRenderers
+url = ssh://git@github.com/CodeEditorLand/LandNotebookRenderers.git
+
 [submodule "LandLivePreview"]
-	path = LandLivePreview
-	url = ssh://git@github.com/CodeEditorLand/LandLivePreview.git
+path = LandLivePreview
+url = ssh://git@github.com/CodeEditorLand/LandLivePreview.git
+
+[submodule "LandGo"]
+path = LandGo
+url = ssh://git@github.com/CodeEditorLand/LandGo.git
