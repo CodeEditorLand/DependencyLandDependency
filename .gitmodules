@@ -834,10 +834,6 @@ url = ssh://git@github.com/CodeEditorLand/LandSimpleJupyterNotebook.git
 path = LandSpringInitializr
 url = ssh://git@github.com/CodeEditorLand/LandSpringInitializr.git
 
-[submodule "Quantum"]
-path = Quantum
-url = ssh://git@github.com/CodeEditorLand/Quantum.git
-
 [submodule "LandWASM"]
 path = LandWASM
 url = ssh://git@github.com/CodeEditorLand/LandWASM.git
