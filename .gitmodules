@@ -488,6 +488,7 @@ url = ssh://git@github.com/CodeEditorLand/LandPolicyWatcher.git
 
 [submodule "LandIosWebDebug"]
 path = LandIosWebDebug
+url = ssh://git@github.com/CodeEditorLand/LandIosWebDebug.git
 
 [submodule "LandNotebookRendererStarter"]
 path = LandNotebookRendererStarter
@@ -832,10 +833,6 @@ url = ssh://git@github.com/CodeEditorLand/LandSimpleJupyterNotebook.git
 [submodule "LandSpringInitializr"]
 path = LandSpringInitializr
 url = ssh://git@github.com/CodeEditorLand/LandSpringInitializr.git
-
-[submodule "Quantum"]
-path = Quantum
-url = ssh://git@github.com/CodeEditorLand/Quantum.git
 
 [submodule "LandWASM"]
 path = LandWASM
