@@ -1233,6 +1233,3 @@ url = ssh://git@github.com/CodeEditorLand/LandLivePreview.git
 [submodule "LandGo"]
 path = LandGo
 url = ssh://git@github.com/CodeEditorLand/LandGo.git
-[submodule "Quantum"]
-	path = Quantum
-	url = ssh://git@github.com/CodeEditorLand/Quantum.git
